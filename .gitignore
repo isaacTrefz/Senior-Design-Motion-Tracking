@@ -203,5 +203,11 @@ cython_debug/
 
 # Marimo
 marimo/_static/
+
+# Media and Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
 marimo/_lsp/
 __marimo__/
